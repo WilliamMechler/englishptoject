@@ -14,17 +14,6 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-#header2{
- background-image: url("whitebg.jpg");
-
-    /* Set a specific height */
-    height: 400px; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    margin: 0;
 }
 
